@@ -1,0 +1,20 @@
+# sense-of-style
+
+> Diagnose and rewrite prose using Steven Pinker's Sense of Style principles. Scores 8 dimensions, flags line-level problems (nominalizations, passive voice, hedges, broken topic chains, clichés), and rewrites — preserving voice, killing bloat. Pairs with qa-loop.
+
+For prose where the content is right but the writing is soft. PRDs, updates, posts, emails, essays. qa-loop fixes argument; sense-of-style fixes prose.
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/derekcedarbaum2/sense-of-style/main/README.md): the 8 dimensions, when to use vs. not, install.
+- [SKILL.md](https://raw.githubusercontent.com/derekcedarbaum2/sense-of-style/main/SKILL.md): the skill itself.
+- [AGENTS.md](https://raw.githubusercontent.com/derekcedarbaum2/sense-of-style/main/AGENTS.md): operating protocol for agents installing this for an operator.
+- [Examples](https://github.com/derekcedarbaum2/sense-of-style/tree/main/examples): annotated before-and-after rewrites.
+
+## Related
+
+- [qa-loop](https://github.com/derekcedarbaum2/qa-loop): pairs with sense-of-style. Run qa-loop first to fix the argument; then run sense-of-style on the prose.
+
+## Optional
+
+- [LICENSE](https://raw.githubusercontent.com/derekcedarbaum2/sense-of-style/main/LICENSE): MIT.
