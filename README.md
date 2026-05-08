@@ -1,10 +1,22 @@
 # Sense of Style
 
-**Diagnose and rewrite prose using Steven Pinker's *Sense of Style* principles.**
+**A prose editor that fixes soft writing without flattening your voice.**
 
-Scores writing on 8 style dimensions, flags specific line-level problems (nominalizations, passive voice, hedges, broken topic chains, clichés), and produces a rewrite that **preserves voice while killing the things that make writing soft.**
+> **New to Claude Code?** [Claude Code](https://docs.anthropic.com/claude/code) is Anthropic's command-line AI agent. This is a *skill* — a slash command (`/sense-of-style`) that runs a structured prose review on a document you give it. Start with [`claude-code-setup`](https://github.com/derekcedarbaum2/claude-code-setup) for the bigger picture. Vocabulary used here (skill, etc.) is defined in the [glossary](https://github.com/derekcedarbaum2/claude-code-setup/blob/main/GLOSSARY.md).
 
-For PRDs, stakeholder updates, posts, emails, essays — any prose where the content is right but the writing is bloated, academic, or hedged.
+---
+
+## The problem
+
+You write a PRD, an essay, a stakeholder update. The argument is solid. The structure is fine. But the *writing* is soft.
+
+Sentences hedge ("it could be argued that"). Nouns swallow verbs ("conduct an analysis" instead of "analyze"). The reader has to decode three layers of qualification to find what you actually mean. Or you trip on a phrase someone else has worn smooth. Or you assume the reader already knows what you know.
+
+Most AI editors will either smooth this into corporate sludge (no voice) or barely change anything (no improvement). What you actually want is: keep the voice, kill the bloat.
+
+That's what this skill does. It reads your prose against the rules in Steven Pinker's *Sense of Style* — the most rigorous public framework for what makes writing clear without making it generic — and produces a rewrite that preserves your voice while fixing the specific problems Pinker named: nominalizations, passive voice as default, broken topic chains, hedge bloat, dead clichés, the curse of knowledge.
+
+For PRDs, stakeholder updates, posts, emails, essays — any prose where the content is right but the writing isn't yet earning its space.
 
 ---
 
