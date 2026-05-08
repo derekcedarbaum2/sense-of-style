@@ -30,7 +30,7 @@ For PRDs, stakeholder updates, posts, emails, essays — any prose where the con
 | Scores **argument**, evidence, structure | Scores **prose** quality |
 | Fixes "this claim is unsupported" | Fixes "this sentence is a nominalization swamp" |
 | Asks "is this true?" | Asks "does this read well?" |
-| Works on PM artifacts | Works on any prose |
+| Works on structured artifacts (PRDs, plans, hypotheses, RFCs, etc.) | Works on any prose |
 
 Run them in sequence on high-stakes writing: `qa-loop` first (fix the thinking), `sense-of-style` second (fix the writing).
 
