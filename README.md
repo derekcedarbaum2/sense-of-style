@@ -2,7 +2,7 @@
 
 **A prose editor that fixes soft writing without flattening your voice.**
 
-> **New to Claude Code?** [Claude Code](https://docs.anthropic.com/claude/code) is Anthropic's command-line AI agent. This is a *skill* — a slash command (`/sense-of-style`) that runs a structured prose review on a document you give it. Start with [`claude-code-setup`](https://github.com/derekcedarbaum2/claude-code-setup) for the bigger picture. Vocabulary used here (skill, etc.) is defined in the [glossary](https://github.com/derekcedarbaum2/claude-code-setup/blob/main/GLOSSARY.md).
+> **New to Claude Code?** [Claude Code](https://docs.anthropic.com/claude/code) is Anthropic's command-line AI agent. This is a *skill* — a slash command (`/sense-of-style`) that runs a structured prose review on a document you give it. See the [ECOSYSTEM map](https://github.com/derekcedarbaum2/claude-code-setup/blob/main/ECOSYSTEM.md) — full system overview + onboarding sequence — or [`claude-code-setup`](https://github.com/derekcedarbaum2/claude-code-setup) for the umbrella reference doc. Vocabulary used here (skill, etc.) is defined in the [glossary](https://github.com/derekcedarbaum2/claude-code-setup/blob/main/GLOSSARY.md).
 
 ---
 
